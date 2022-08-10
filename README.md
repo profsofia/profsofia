@@ -1,5 +1,5 @@
 - 👋 Hola, Soy Sofía Schenone
-![Me]([https://res.cloudinary.com/sofiaschenone/image/upload/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png](https://res.cloudinary.com/sofiaschenone/image/upload/c_scale,w_81/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png))
+![Me](https://res.cloudinary.com/sofiaschenone/image/upload/c_scale,w_81/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png)
 - 🌱 En este momento me encuentro estudiando Big Data (Ciencia de Datos)...
 - Programadora Full Stack (JavaScript-Java), apasionada por aprender nuevos lenguajes. 
 - Me gusta crear cosas que sean muy útiles para la enseñanza, 
