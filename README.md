@@ -1,20 +1,37 @@
-- 👋 Hola, Soy Sofía Schenone
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/sofiaschenone/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:3e2d2d,c_fill,g_auto,r_max,w_1000/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/sofiaschenone/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:3e2d2d,c_fill,g_auto,r_max,w_1000/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://res.cloudinary.com/sofiaschenone/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:3e2d2d,c_fill,g_auto,r_max,w_1000/v1659631612/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_5_yx0r5i-removebg-preview_omgku0.png">
-</picture>
+### Hola! 👋 
+### Yo Soy Sofia Schenone
 
-- ![Me](https://res.cloudinary.com/sofiaschenone/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:220876,c_fill,g_auto,r_max,w_266/v1655235194/portfolio/banner_ax140q.jpg)
-- 🌱 En este momento me encuentro estudiando Big Data (Ciencia de Datos)...
-- Programadora Full Stack (JavaScript-Java), apasionada por aprender nuevos lenguajes. 
-- Me gusta crear cosas que sean muy útiles para la enseñanza, 
-- tengo un canal de YT donde subo contenido de química para pre-universitarios...
-- Puedes conocerme un poco más...
-- [Linkedin](https://www.linkedin.com/in/sofiaschenone/)
-- [YouTube](https://www.youtube.com/channel/UCcSErMMrU9eYeT93L-87n-w)
-- Mi Portafolio [MyPortafolio](https://portofiofullstack.web.app/)
-<!---
-profsofia/profsofia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/profsofia)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofiaschenone/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sofiainesschenone@gmail.com)
+
+Bienvenido/a a mi página de Github! Yo soy Sofía y actualmente finalizé el curso de Argentina Programa #yoprogramo, actualmente estoy cursando Big Data y Java...   
+
+<img align="right" alt="img" src="https://res.cloudinary.com/sofiaschenone/image/upload/v1660161542/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_bgmaqn.gif" width="50%" height="auto" />
+
+
+#### 🌱 Lo que estoy trabajando: 
+- Realizando prácticas de Angular y Java
+- Tomando un curso de Big Data 
+- Estudiando Python
+
+#### :computer: Lenguajes de programación y otras Herramientas: 
+<!--
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+-->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+</p>
+<br />
+
+#### Manejo de plataformas firebase database, hosting y auth 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
