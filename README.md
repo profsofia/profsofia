@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofiaschenone/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sofiainesschenone@gmail.com)
 
-Bienvenido/a a mi página de Github! Yo soy Sofía y actualmente finalizé el curso de Argentina Programa #yoprogramo, actualmente estoy cursando Big Data y Java...   
+Bienvenido/a a mi página de Github! Yo soy Sofía y hace poco finalizé el curso de Argentina Programa #yoprogramo, ahora estoy cursando Big Data y Java...   
 
 <img align="right" alt="img" src="https://res.cloudinary.com/sofiaschenone/image/upload/v1660161542/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_bgmaqn.gif" width="50%" height="auto" />
 
