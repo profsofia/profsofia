@@ -10,7 +10,7 @@ Bienvenido/a a mi página de Github! Soy Programadora Java/Javascript, apasionad
 
 
 <img align="right" alt="img" src="https://res.cloudinary.com/sofiaschenone/image/upload/v1660161542/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_bgmaqn.gif" width="50%" height="auto" />
-[![**Portafolio**]](https://portafolioschenonesofia.web.app/)
+[Portafolio](https://portafolioschenonesofia.web.app/)
 
 #### 🌱 Lo que estoy trabajando: 
 - Realizando prácticas de Angular y Java
