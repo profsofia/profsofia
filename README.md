@@ -6,12 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sofiainesschenone@gmail.com)
 
 Bienvenido/a a mi página de Github! Soy Programadora Java/Javascript, apasionada por aprender nuevos lenguajes. Me gusta crear cosas que sean muy útiles para la enseñanza, tengo un canal de **YouTube** en el cual me dedico a subir contenido gratuito para preuniversitarios. Tengo una gran curiosidad por la tecnología y la educación. Soy amante de las *matemáticas y autodidacta*
-### Mi portafolio
-
 
 <img align="right" alt="img" src="https://res.cloudinary.com/sofiaschenone/image/upload/v1660161542/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_bgmaqn.gif" width="50%" height="auto" />
-<code><a href="https://portafolioschenonesofia.web.app/" target="_blanck">Ver</a></code>
-<code><img src="https://res.cloudinary.com/sofiaschenone/image/upload/v1671559496/QR_ab8zge.png" alt="QR del portafolio"></code>
+<code><a href="https://portafolioschenonesofia.web.app/" target="_blanck">## Mi Portafolio</a></code><hr/>
+<img src="https://res.cloudinary.com/sofiaschenone/image/upload/v1671559496/QR_ab8zge.png" alt="QR del portafolio">
 
 #### 🌱 Lo que estoy trabajando: 
 - Realizando prácticas de Angular y Java
