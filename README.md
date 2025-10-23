@@ -1,39 +1,51 @@
-### Hola! 👋 
-### Yo Soy **Sofia Schenone**
+### ¡Hola! 👋 Soy Sofia Schenone
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/profsofia)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofiaschenone/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sofiainesschenone@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofiaschenone/)
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/profsofia)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5733?style=flat&logo=Brave&logoColor=white)](https://portafolioschenonesofia.web.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sofiainesschenone@gmail.com)
 
-Bienvenido/a a mi página de Github! Soy Programadora Java/Javascript, apasionada por aprender nuevos lenguajes. Me gusta crear cosas que sean muy útiles para la enseñanza, tengo un canal de **YouTube** en el cual me dedico a subir contenido gratuito para preuniversitarios. Tengo una gran curiosidad por la tecnología y la educación. Soy amante de las *matemáticas y autodidacta*
+---
 
-<img align="right" alt="img" src="https://res.cloudinary.com/sofiaschenone/image/upload/v1660161542/portfolio/Dise%C3%B1o_sin_t%C3%ADtulo_bgmaqn.gif" width="50%" height="auto" />
-<code><a href="https://portafolioschenonesofia.web.app/" target="_blanck">## Mi Portafolio</a></code><hr/>
-<img src="https://res.cloudinary.com/sofiaschenone/image/upload/v1671559496/QR_ab8zge.png" alt="QR del portafolio">
+### Sobre Mí
 
-#### 🌱 Lo que estoy trabajando: 
-- Realizando prácticas de Angular y Java
-- Tomando un curso de Big Data 
-- Estudiando Python
+Soy **Desarrolladora de Software**, estudiante avanzada de la **Tecnicatura Universitaria en Desarrollo de Software** en la UPE. Mi objetivo profesional es convertirme en Ingeniera Electrónica.
 
-#### :computer: Lenguajes de programación y otras Herramientas: 
-<!--
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
--->
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+[cite_start]Me apasiona el software, aprendo rápido y me destaco en matemáticas (promocionando Matemática I y II con 10 en la universidad [cite: 49]).
 
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-</p>
-<br />
+Actualmente estoy buscando mi **primera oportunidad laboral (Trainee o Junior)** donde pueda aplicar mis conocimientos y seguir creciendo.
 
-#### Manejo de plataformas cloud, data base y hosting
-<code><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+---
+
+### 🌱 Lo que estoy aprendiendo y practicando
+
+* Profundizando en **Estructuras de Datos y Algoritmos en C**.
+* Aplicando principios de **Testing de Software** (Caja negra, caja blanca, pruebas unitarias).
+* Desarrollando nuevos proyectos con el stack **MEAN** y **Vue.js**.
+
+---
+
+### 💻 Mi Stack Tecnológico
+
+Aquí están las tecnologías y herramientas con las que construyo mis proyectos:
+
+#### **Front-End**
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript (ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+#### **Back-End**
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+
+#### **Bases de Datos**
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https.img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-D14836?style=flat&logo=Datagrip&logoColor=white" />
+
+#### **Lenguajes Fundamentales y Herramientas**
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
